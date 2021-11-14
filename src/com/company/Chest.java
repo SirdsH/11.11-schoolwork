@@ -1,6 +1,6 @@
 package com.company;
 
-public class Chest extends Base implements Open {
+public class Chest extends Base implements IOpen {
     public Chest(int endurance, boolean rightClick) {
         super(endurance, rightClick);
     }

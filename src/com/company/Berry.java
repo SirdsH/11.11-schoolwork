@@ -1,6 +1,6 @@
 package com.company;
 
-public class Berry extends Base implements Grow{
+public class Berry extends Base implements IGrow {
     public Berry(int endurance, boolean rightClick) {
         super(endurance, rightClick);
     }

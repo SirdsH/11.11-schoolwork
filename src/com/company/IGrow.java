@@ -1,5 +1,5 @@
 package com.company;
 
-public interface Grow {
+public interface IGrow {
     void grow(int a);
 }

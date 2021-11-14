@@ -1,5 +1,5 @@
 package com.company;
 
-public interface Open {
+public interface IOpen {
     void open();
 }
